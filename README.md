@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eimanes/eimanes/output/snake.svg" alt="Snake animation" />
-
 ###
